@@ -21,3 +21,11 @@ Backend code: https://github.com/codingsamurai-10/class-manager-backend
 
 ## Admin dashboard
 ![image](https://user-images.githubusercontent.com/58487637/131261445-7fe1e471-579e-4a02-bce5-8195f4c90c7e.png)
+
+## Cancel slot feature
+![image](https://user-images.githubusercontent.com/58487637/131261480-571c7144-22dd-4056-b845-8b3a91aba25c.png)
+![image](https://user-images.githubusercontent.com/58487637/131261491-e0bd3c44-5740-48e4-b7d4-a8d139899e30.png)
+
+## Book slot feature
+![image](https://user-images.githubusercontent.com/58487637/131261505-0307c3f9-fcfc-4c2c-9686-f31dc20c4f01.png)
+![image](https://user-images.githubusercontent.com/58487637/131261525-3017584b-ad1b-4dd7-9960-0aa56b6070be.png)
