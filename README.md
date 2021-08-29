@@ -28,4 +28,7 @@ Backend code: https://github.com/codingsamurai-10/class-manager-backend
 
 ## Book slot feature
 ![image](https://user-images.githubusercontent.com/58487637/131261505-0307c3f9-fcfc-4c2c-9686-f31dc20c4f01.png)
+
+Searches the time table for free slots for the given date and duration and the user can choose from the given options.
+
 ![image](https://user-images.githubusercontent.com/58487637/131261525-3017584b-ad1b-4dd7-9960-0aa56b6070be.png)
