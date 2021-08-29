@@ -15,3 +15,9 @@ Backend code: https://github.com/codingsamurai-10/class-manager-backend
 # Screenshots
 ## Dashboard
 ![image](https://user-images.githubusercontent.com/58487637/131261396-0617056b-fbb0-4e62-b6f7-94f98091fb17.png)
+
+## Notifications page
+![image](https://user-images.githubusercontent.com/58487637/131261417-dcb06005-7d9a-408e-9bc8-7708ed5249ca.png)
+
+## Admin dashboard
+![image](https://user-images.githubusercontent.com/58487637/131261445-7fe1e471-579e-4a02-bce5-8195f4c90c7e.png)
