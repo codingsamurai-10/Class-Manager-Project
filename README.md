@@ -11,3 +11,7 @@ Live demo: https://class-time-table-manager.herokuapp.com/ (All features not ava
 Frontend code: https://github.com/codingsamurai-10/class-manager-frontend
 
 Backend code: https://github.com/codingsamurai-10/class-manager-backend
+
+# Screenshots
+## Dashboard
+![image](https://user-images.githubusercontent.com/58487637/131261396-0617056b-fbb0-4e62-b6f7-94f98091fb17.png)
