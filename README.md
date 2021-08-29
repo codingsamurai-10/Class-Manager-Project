@@ -7,5 +7,7 @@ Students can login using their college email IDs and view the time table. The cl
 
 # Links
 Live demo: https://class-time-table-manager.herokuapp.com/ (All features not available to random users)
+
 Frontend code: https://github.com/codingsamurai-10/class-manager-frontend
+
 Backend code: https://github.com/codingsamurai-10/class-manager-backend
