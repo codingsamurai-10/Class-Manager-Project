@@ -1,4 +1,7 @@
 # Class-Manager-Project
+
+Skip to the screenshots if you find this boring!
+
 Tired of managing your college time table when the classes keep getting rescheduled or cancelled?
 Fret not! Here's a web application created using MERN stack that solves exactly this problem!
 Powered with a dynamically displayed time table, the option of cancelling and booking slots in the schedule and an instantly updated notification page, this easy-to-use app has been made for college students.
@@ -13,7 +16,7 @@ Frontend code: https://github.com/codingsamurai-10/class-manager-frontend
 Backend code: https://github.com/codingsamurai-10/class-manager-backend
 
 # Screenshots
-## Dashboard
+## Dynamic Time Table
 ![image](https://user-images.githubusercontent.com/58487637/131261396-0617056b-fbb0-4e62-b6f7-94f98091fb17.png)
 
 ## Notifications page
