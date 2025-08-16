@@ -9,7 +9,6 @@ Powered with a dynamically displayed time table, the option of cancelling and bo
 Students can login using their college email IDs and view the time table. The class representatives will have the authority to manipulate the time table and notify everyone automatically...no more hustle of finding free slots manually and typing out a message listing all the details to notify the class!
 
 # Links
-Live demo: https://class-time-table-manager.herokuapp.com/ (All features not available to random users)
 
 Frontend code: https://github.com/codingsamurai-10/class-manager-frontend
 
